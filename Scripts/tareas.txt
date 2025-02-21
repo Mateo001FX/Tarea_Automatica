@@ -1,0 +1,7 @@
+Lista de Tareas:
+===============
+1. Automatización de tareas en Linux
+2. Control y gestión de permisos
+3. Trabajo colaborativo con Git
+4. Gestión de procesos del sistema
+5. Crear documentación del proyecto
