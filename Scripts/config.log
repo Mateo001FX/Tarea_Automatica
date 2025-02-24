@@ -1,0 +1,8 @@
+# Archivo de configuración para la gestión de permisos y procesos
+# Creado como parte del Punto 4 del taller
+
+LOGS=/var/log
+USUARIOS=/etc/passwd
+PROCESOS=ps aux
+
+# Fin del archivo de configuración
